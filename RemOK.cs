@@ -47,7 +47,7 @@ namespace PracticePrograms
                 }
                 
             }
-            Console.WriteLine("Output : " + str1);
+            Console.WriteLine("Output: " + str1);
         }
     }
 }
